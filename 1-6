@@ -2,4 +2,34 @@
 
 Hello, and welcome to Python for Everybody. My name's Charles Severance and I am your instructor. We named this Python for Everybody because we are dedicated 
 (преданный) to the notion that increasingly as our lives are surrounded by technology, that we want you to become a maker of technology, not just 
-a consumer of technology. We want to change your perspective from 
+a consumer of technology. We want to change your perspective from this side of technology where you are looking at it, to the other side where you're
+back here. You are like a creator of the technology and you can create things. And it takes a long time and you may not want to be a professional programmer 
+ever, you might just like read a little bit of data, but we believe that everybody should know basically how to program and how to get things done inside
+of a computer, just as much to just be a responsible participant in a modern, increasingly (всё больше и больше) technically oriented society.
+Computers want to be helpful.
+
+They are programmed, they are designed, the hardware's designed. We'll talk about hardware in the next segment. But it's designed and wired (подключённый)
+and when you apply electricity to it, it basically has one question, and that is waht do you want to do next? And if you think about your phone
+and all the apps that you have on your phone, each app is like waht to do next, what to do next. So, as a programmer, your job is to serve the user. 
+The user has something they want to do. Maybe they want to zing (энергия) a bird towards a pig or maybe they need to analyze some data, or maybe
+thay want to do something like talk to their phone and you have to be a real advanced computer science.
+
+And so, as a user we just have so many wonderful programmers who have put so much software that make these phones intelligent. The hardware itself is 
+not all that intelligent. And our job as programmers is to act as intermediaries between the hardware and the user to build something wonderful
+and beautiful. And so, you can kind of imagine that yyour job as a programmer is to intermediate between the hardware and the end user. And if 
+you're a professional programmer and you're trying to sell your software, well, you're trying to imagine what the world might want. And you could
+imagine all these app stores, etc. And these are places that you can build software, and exchange that software with other folks, and help people out.
+
+And like I said, we are trying to flip (перевернуть) you from one side of this device to the other side of this device, where you are the maker.
+And you can think of this as a tool to manage your calendar, or drive your car and read a map, or whatever. But when you look at it from the other side, 
+when you look at it from being a programmer, you use things like compilers and interpreters and programming languages and networks, etc. And we actually
+have tools that we are going to learn to use. Pythin is a tool that the programmers on the back side of this computer use to make new things for the
+front side of the programmers on the back side of this computer use to make new things for the front side of the computer. Now, what's your motivation
+to become a programmer? Well, the kind of gross motivation for professional programmers is to build something for everyone else to use.
+
+Like I worked on this open source software called Sakai, which millions of people use around the world, teaching and learning. It's very rewarding for me.
+I feel really good about that. You might build a guest book for a website. But that's generally not the first thing that you're going to do 
+with your programming skills. You might get some data. You might be an accountant.
+
+Or you might be a lawyer. Or you might be a librarian. And somebody's got some data and you can't get report out of this data, it's something
+you're really curious (любопытный) about. Somebody says can you knock out 
