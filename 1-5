@@ -1,1 +1,35 @@
+Assignment view
 
+Submit assigments
+
+All coding assignments for this course are submitted through Autograder, which is an external tool hosted by the
+University of Michigan and linked to the Coursera platform. The first graded task will be in the 3rd week.
+
+Note for mobile srudents (Примечание для студентов, использующих мобильные устройства)
+
+The assignments in this course will not work in the Coursera app. You must use a web browser (such as Chrome,
+Firefox, or Safari) to run the course assignments.
+
+Select a job, then click the Open Tool button to go to the Motor Grader.
+
+Enter your program in the left pane of the window and click Check Code.
+
+If your code is correct, the Motor Grader will display the message Grade updates on server.
+
+In order for your conclusion to be accepted as correct, it must exactly match the Specified Conclusion
+(including capitalization and gaps (пробелы)
+
+Press Exit to close the Auto Thermometer.
+
+Grading notes (Заметки по выставлению оценок)
+
+- Tasks are evaluated for "pass/fail". Partial assessment is not provided.
+- Once you have completed the assignment, your grade will not be changed by subsequent (последующий)
+unsuccessful attempts.
+- Reset Code resets the start code of the task to its original value. This will not affect (воздействовать)
+your grade.
+-When you reopen an assignment that you have already completed, your grade will be displayed.
+
+Python Code Playground is basically a course motor grader without any grading feautures. Type or paste your
+code on the left side of the window, then click Check Code. This is a good place to try things out or test
+your scripts before submitting.
