@@ -1,0 +1,25 @@
+1-8
+Welcome back. Now, we're going to talk a little bit about hardware architecture. You might ask yourself
+sort of why all these terms, ans words, and central processing unit, what I want from this section is
+I just want to define a few terms, so that I can use them in the rest of the course. That's really it. 
+I want you to have some sense of the basic block diagram of things. Now in the old days, I'm going to show
+you three generations of hardware. I'm going to show you really old hardware from the 60s and 70s.
+I'm going to show you sort of medium old hardware from the 90's and early 2000s. And then, I'm going
+to show you sort of suuper brand new hardware that sort of this is a Raspberry Pi and it's the kind
+of highly integrated hardware that goes into things like the cellphone. So I'll kind of be going 
+back and forth between three complete generations of hardware. But the picture and the concepts that
+I want you to understand are these terms. Central processing unit, main memory, secondary memory unit,
+and input/output devices. So we'll start with input/output devices. There is a little, that's okay
+just mess up a little bit, no problem at all.
+Output devices, screens, and that's sort of how the humans in the outside world interact. Software,
+the main inside the computer, we have the central processing unit, and the main memory, and then
+the secondary memory. And so it's probably easier for  me to take the, neither the oldest nor the
+newest, to give you a sense of what is going on here. And so, if you had a desktop and maybe you still
+have one of these junky old desktops at home, they are the ones that are big and they make noise when 
+they start up, they have in them a number of differrent parts and the closest thing that a computer
+has to intelligence in this. Central processing unit, CPU is what we call them. And if you look at
+the back side of this CPU it is actually a circuit. It's a highly sphisticated circuit with
+millions of transistors on it, and, you've probably heard that, millions of transistors. It runs maybe 
+three billion instructions per second.
+
+What does that mean? Well that means that an instructions is a set of electrical pulses, maybe 32 little 
