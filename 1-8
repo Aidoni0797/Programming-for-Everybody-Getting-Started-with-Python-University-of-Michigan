@@ -24,4 +24,32 @@ three billion instructions per second.
 
 What does that mean? Well that means that an instructions is a set of electrical pulses, maybe 32 little 
 wires or 64 little wires. And at three billion times a second, this is programmed to ask what's
-next. And it pulls what's next in these little electric wires. Well,
+next. And it pulls what's next in these little electric wires. Well, where does it get the answer to what's
+next? It gets the answer to what's next out of the memory. And so your program, when you write a program,
+let me draw this, when you write a program, you create a file on the secondary memory, like a Python file,
+and then at some point that is loaded into the main memory, translated, and then your program is here.
+And then when the CPU says what next, your program feeds its first instruction. And then when that's done,
+the CPU says what's next? It feeds the second unstruction, third inctruction, fourth instruction. It's
+called the fetch-execute cycle. And these two parts, the CPU and the main memory, are what participate. And the main memory is where you kind of live.
+Somewhere in there, a little tiny version of yourself is in there answering the questions that this is asking.
+
+Now you might say how smart is this, it's not really very smart at all. It's a really fast hand calculator
+with lots of storage is the best way to think about it. And going back to the 60s and the 70s, this is a piece of
+hardware from a computer that was the size of a room with probably 20 refrigators, all with modules that make this up.
+And in here, well you probably can't see it, you've got resistors, transistors, and capacitors, and then wires. The
+wires are all printed on this printed circuit board, otherwise known as PCB. And so, the closest thing this has
+to intelligence are these transistors. And at their simplest, what they can do is they can sort of make really simple
+yes/no decisions.
+
+And then they also can be used, if you hook them together the right way, to store a little bit of information.
+And so, when we say there are millions of transistors packed into this little tiny square right here. It's kind
+of pretty. I mean, if you look at it, it's sot of, it looks almost like a jewel, it's so pretty. And each one of those
+is a real tiny photo-imprinted transistor and so there are millions of this. And so the difference between 1960 and today is this
+part gets smaller and smaller and smaller to the point where literally thounsands of theses things are all squeezed in to
+that little square. And coming back to sort of the mid-grade one, so this one here is the motherboard.
+
+This part here is the motherboard because it's the mother of all boards and it connects everything together. All these
+components plug in and that;s how they are connected together and there's a whole bunch of wires that go back and forth
+on this and so this is how your program in a sense is transported from the memory to the CPU. And so, this motherboard connects them. Another thing
+that's connected to the mptherboard is secondary storage. Now, the reason we have to have secondary memory or secondary storage is
+this 
