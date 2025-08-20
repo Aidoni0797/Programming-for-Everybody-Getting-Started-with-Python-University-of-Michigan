@@ -9,4 +9,14 @@ with databases.
 
 Whether it's just a few rows in a single table or millions or bilions of rows spanning a large number of tables spread across a cluster of servers.
 There are numerous advantages to learning SQL for anyone interested in working with data. SQL is an essential skill and qill boost your
-profressional profile as a data professionl
+profressional profile as a data professional. SQL is one of the most in-demand skills by hiring employers. Learning SQL will give you a solid 
+understanding of working with not only relational databases but many NoSQL and Big Data engines that also utilize SQL like interfaces. This
+course prepares you for using SQL in the real world. You will learn the basics of SQL language and relational databases.
+
+You will start with performing simple SQl queries using SELECT, INSERT, UPDATE and DELETE statements. Next, you will create tables and load 
+them with data. You will then learn how to filter, sort, and aggregate results as well as work with built-in database functions. You will also
+learn to write Nested Queries and join data in multiple tables. Finally, you'll demonstrate your SQL skills with multiple hands-on labs and
+real-world inspired project using a real-world dataset. Upon completing this course you will have developed skills and experince somposing a variety
+of SQL queries, and using them to access and manipulate data in databases. If at any time in the course you need assistance or clarification, please post
+in the course discussion forums to interact with your peers and course staff.
+So, without further ado, let's begin your journey with SQL!
