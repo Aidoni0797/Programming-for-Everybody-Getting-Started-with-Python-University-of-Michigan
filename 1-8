@@ -52,4 +52,25 @@ This part here is the motherboard because it's the mother of all boards and it c
 components plug in and that;s how they are connected together and there's a whole bunch of wires that go back and forth
 on this and so this is how your program in a sense is transported from the memory to the CPU. And so, this motherboard connects them. Another thing
 that's connected to the mptherboard is secondary storage. Now, the reason we have to have secondary memory or secondary storage is
-this 
+this is designed to be really fast, the main memory is super fast. And what happens is when the computer turns off, your
+program is erased from here. And so I originally said that you write your program, and you put a file in here, a .py file,
+and this is the same place that your Word files are, and your PowerPoints are.
+
+And then, the .py file is kind of loaded and translated into the main memory. And then when the computer shuts off, all this
+data goea away. Secondary memory is permanent. This does not get shut off. And, so, in the old days, this old-day stuff, we used to store
+our programs and our files on our hard drive. And you may even have a computer at home where there's a actual physical spinning
+platter of magnetic media and a little head that goes in and out to read and write the data. And so it actually records magnetically when you 
+put a file in, it records it and then when the power's off the magnetic recording stays here.
+
+
+And so theses things, physical disk drives, are kind of going, becoming extinct, because all the data is in little USB sticks like
+this, and that's a perfectly good version of secondary memory. But at least for us, we can look at these beautiful antique mechanical gadgets that
+we used to store data magnetically when the power goes off. Now, this one here is pretty broken. And it's pretty in bad shape, so
+it's probably not really storing much of anything. So in a summary of this picture, the thing I really want you to get out of this
+picture is a series of definitions. The Central Processing Unit is very simple, it's the closest thing computers have to brains, but it wants
+to answer the question what to do next, but, we have to feed, through memory. The answers, which is your programs. And then we have input devices,
+output devices, the main memory, and then the larger permanent storage in the secondary memory.
+So, where you live inside of a computer  is basically in the main memory. When you write a program, you tyoe it in the computer, you outside
+the computer are typing on your keyboard, and you're typing Python commands into a file. Like if x less than 3, print, right? And then, that gets 
+loaded into the main memory, and so you, this is a creative version of yourself. It's your instructions that are going to be run and
+that program ends up in the main memory, and then it's run. So, this is sort of where you live inside the somputer. Think of it that way.
