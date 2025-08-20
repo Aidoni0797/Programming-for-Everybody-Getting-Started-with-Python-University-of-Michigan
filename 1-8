@@ -23,3 +23,5 @@ millions of transistors on it, and, you've probably heard that, millions of tran
 three billion instructions per second.
 
 What does that mean? Well that means that an instructions is a set of electrical pulses, maybe 32 little 
+wires or 64 little wires. And at three billion times a second, this is programmed to ask what's
+next. And it pulls what's next in these little electric wires. Well,
