@@ -1,2 +1,32 @@
 2-2
 Course Overview
+Welcome to the Back-end Development with Node and Databases course. By the end of this course, you will learn how to use Node and NoSQL databases
+to support your back-end development projects.
+Course Content
+This course is divided into 5 modules. You should set a goal to take at least one module per week.
+Module 1: Introduction to Dtabases and Working with Node
+- Lesson 1: Introduction to Databases
+- Lesson 2: Module Summary and Quiz
+Module 2. Working with Node and Databases
+- Lesson 1: Introduction to NoSQL and Node databases
+- Lesson 2: Module Summary and Quiz
+Module 3: Working with REST APIs and Advanced Node Concepts
+- Lesson 1: Restful APIs
+Module 4: Advanced Development Concepts with Node
+- Lesson 1: Error Handling and Middleware
+- Lesson 2: Summing up and test
+Module 5: Final Project
+The course contains a variety of learning materials: videos, assignments, labs, projects, hands-on labs, assessments, readings, and discussion
+questions. Videos and readings present educational material; Labs and activities support this material with hands-on activties; Expert
+Perspectives videos present the perspectives of experts in the field to demonstrate the real-world application of the skills learned
+in this course. discussions allow you to interact and learn from your peers: peer-reviewed projects simulate real-world scenarios to showcase
+your skills; Practice tests will allow you to test your knowledge of what you've learned; and credit tests show how well you've grasped the
+concepts of the course.
+Prerequisites
+Prior knowledge of the following topics is recommended for successful study of this cource:
+- JavaScript
+- Node and Express
+You can gain (получать) knowledge on these topics by taking the following courses from IBM on Coursera:
+- https://www.coursera.org/learn/javascript-programming-essentials
+- https://www.coursera.org/learn/developing-backend-apps-with-nodejs-and-express
+Enjoy the course!
