@@ -18,3 +18,18 @@ Databases are everywhere and used every day, but they are largely taken for gran
 stores data. A database also provides the functionality for adding, modifying, and querying that data. A database also provides the functionality
 for adding, modifying, and querying that data. There are different kinds of databases of different requirements. The data can be stored in various
 forms. WHen data is stored in tabular form, the data is organized in tables like a spreadsheet, which is columns and rows.
+
+That's a relational database. The columns contain properties about the item such as last name, first name, email address, city. A table is a 
+collection of related things like a lis of employees or a list of book authors. In a relational database, you can form relationships between tables.
+So a database is a repository of data. A set of software tools for the datat in the database is called a database managment system or DBMS for short.
+The terms database, database server, database system, data server, and database managment systems are often used interchangeably.
+
+For relational databases, it's called a relational database managment system or RDBMS. RDBMS is a set of software tools that controls the data such
+as access, organization, and storage. And RDBMS serves as the backbone of application in many industries including banking, transportation,
+health, and so on. Examples of relational database management systems are my SQL, Oracle Database, DB2 Warehouse, and DB2 on Cloud. For the
+majority of people using a database, there are five simple commands to create a table, insert data to populate the table, select data from the table,
+update data in the table, delete data from the table. So those are the building blocks for SQL for data science. You can now describe what is SQL,
+what is data, what is a database, and what is a relational database.
+
+You know that RDBMS stands for Relational Database Managment System, and you can list five basic SQL commands to create a table, insert data
+to populate the table, select data from the table, update data in the table, and delete data from the table. Thanks for watching this video.
