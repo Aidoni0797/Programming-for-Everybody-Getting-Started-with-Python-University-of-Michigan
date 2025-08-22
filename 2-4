@@ -30,3 +30,12 @@ WHERE. The WHERE clause (предложение) always requires a predicate. A 
 evaluates to true, false or unknown. Predicates are used in the search condition of the WHERE
 clause. So, if we need to know the title of  the book whose book_id is B1, we use the WHERE clause with 
 the predicate book_id equals B1.
+
+Select book_id ttile from book where book_id equals B1. Notice the result set is now retricted to just
+one row whose condition evaluates to true. The previous example used comparison operator equal
+to in the WHERE clause. There are other comparison operators supported by a relational database 
+management system: equal to, greater than, less than, greater than, or equal to, less than or equal to,
+and not equal to. Now you can retrieve data and select columns from a relational database table, define
+the use of a predicate, identify the syntax of the SELECT statement using the WHERE clause, and
+list the comparison operators supported by a relational database management system. Thanks for 
+watching this video.
